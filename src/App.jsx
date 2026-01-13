@@ -1,5 +1,6 @@
 import React from 'react';
 import TranslatorContainer from './components/container/TranslatorContainer';
+import logoImage from './assets/images/languages.png';
 import './App.css';
 
 function App() {
@@ -9,7 +10,7 @@ function App() {
         <div className="header-content">
           <div className="logo-title-wrapper">
             <img 
-              src="./src/assets/images/languages.png" 
+              src={logoImage} 
               alt="QuickTranslate Logo" 
               className="app-logo"
               width="32"
