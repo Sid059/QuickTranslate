@@ -2,6 +2,10 @@
 
 QuickTranslate is a modern, responsive web application that provides instant text translation between English and 100+ languages. Built with React and powered by the MyMemory Translation API, it offers a clean, intuitive interface for seamless translation experiences.
 
+## Live Demo
+
+Experience QuickTranslate live: [https://quicktranslate.netlify.app](https://quicktranslate.netlify.app/)
+
 ## Description
 
 I built QuickTranslate for two reasons: as a hands-on React practice project to improve my development skills, and to create a clean, ad-free translator that doesn't require sign-ups, a tool I actually wanted to use myself.
